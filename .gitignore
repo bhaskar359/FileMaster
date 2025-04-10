@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# IDE files
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+
+# Swagger JSON (optional if you don’t want to expose docs)
+src/docs/swagger.json
+
+# Uploaded files (optional)
+src/uploads/
